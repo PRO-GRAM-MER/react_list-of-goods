@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,kBACF,CAEA,YACE,UAAW,CACX,cACF","file":"main.f49fe15e.chunk.css","sourcesContent":[".App {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n\n.App__title {\n  color: aqua;\n  font-size: 40px;\n}\n"]}
